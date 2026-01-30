@@ -76,7 +76,31 @@ pkg install shc curl coreutils -y
 
 ---
 
-## 🚀 Usage
+## � GitHub Token Setup
+
+To use the GitHub upload feature, you need a Personal Access Token:
+
+### Step 1: Generate Token
+1. Go to [GitHub Settings → Developer Settings → Personal Access Tokens](https://github.com/settings/tokens)
+2. Click **"Generate new token (classic)"**
+3. Give it a name (e.g., `DroidSanitizer`)
+4. Select expiration (recommended: 90 days)
+5. Check these scopes:
+   - ✅ `repo` (Full control of private repositories)
+   - ✅ `delete_repo` (Optional)
+6. Click **"Generate token"**
+7. **Copy the token immediately** (you won't see it again!)
+
+### Step 2: Save Token
+When you run the tool, it will ask for:
+- **GitHub Username**: Your GitHub username
+- **GitHub Token**: Paste your token here
+
+> ⚠️ **Keep your token secret!** Never share it publicly.
+
+---
+
+## �🚀 Usage
 
 ### Installation
 ```bash
