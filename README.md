@@ -104,6 +104,11 @@ When you run the tool, it will ask for:
 
 ### Installation
 ```bash
+git clone https://github.com/samay825/DroidSanitizer
+```
+
+### Permission
+```bash
 chmod +x zorkwipe
 ```
 
@@ -111,7 +116,6 @@ chmod +x zorkwipe
 ```bash
 ./zorkwipe
 ```
-
 
 
 ---
@@ -224,4 +228,5 @@ SOFTWARE.
 <p align="center">
   <b>Use Responsibly | Stay Ethical | Hack Legally</b>
 </p>
+
 
