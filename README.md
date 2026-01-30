@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Termux-green?style=for-the-badge&logo=android" alt="Platform">
-  <img src="https://img.shields.io/badge/Version-2.0-blue?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/Version-4.0-blue?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License">
   <img src="https://img.shields.io/badge/Purpose-Security%20Research-red?style=for-the-badge&logo=shield" alt="Purpose">
 </p>
@@ -228,5 +228,6 @@ SOFTWARE.
 <p align="center">
   <b>Use Responsibly | Stay Ethical | Hack Legally</b>
 </p>
+
 
 
