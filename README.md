@@ -76,7 +76,7 @@ pkg install shc curl coreutils -y
 
 ---
 
-## � GitHub Token Setup
+## GitHub Token Setup
 
 To use the GitHub upload feature, you need a Personal Access Token:
 
@@ -100,7 +100,7 @@ When you run the tool, it will ask for:
 
 ---
 
-## �🚀 Usage
+## 🚀 Usage
 
 ### Installation
 ```bash
@@ -224,3 +224,4 @@ SOFTWARE.
 <p align="center">
   <b>Use Responsibly | Stay Ethical | Hack Legally</b>
 </p>
+
